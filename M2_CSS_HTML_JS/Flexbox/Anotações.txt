@@ -1,0 +1,35 @@
+Posicionando elementos com Flexbox em CSS
+
+Estrutua Basica do DisplayFlex
+
+Flex Direction - > é uma propriedade que estabelece o eixo principal do conteiner de
+finindo assim a direção que os flex items são colocados no flex itemns são colocados 
+no flex container.
+
+Eixos Horizontais -> row (padrão): À direção do texto, esquerda para direita [1][2][3][4]
+
+			->row-reverse: Sentido oposto à direção do texto [4][3][2][1]
+
+Eixos Verticais 	-> column: ordenação de cima para baixo em coluna unica
+			[1]
+			[2]
+			[3]
+			[4]
+			
+			-> column-reverse: Ordenação inversa, de baixo para cima
+			[4]
+			[3]
+			[2]
+			[1]
+
+		Flex-wrap
+
+É a propriedade que define se os itens deve ou não quebrar a linha.
+
+		Nowrap
+É o padrão, não permite a quebra de linha  
+	
+
+	
+
+
